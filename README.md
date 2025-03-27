@@ -1,6 +1,17 @@
 # Pf-MERN
 This project is a personal portfolio website designed to showcase professional skills, projects, and background. The website includes sections such as Home, About Me, Skills, Projects, Contact, and an Admin Panel for managing content.
 
+## Folder Structure
+- Frontend
+![image](https://github.com/user-attachments/assets/3691ecc8-0f26-4512-83d8-676765a88aeb)
+![image](https://github.com/user-attachments/assets/0997d12c-dd48-4b70-8316-02887aa97f29)
+
+- Backend
+- ![image](https://github.com/user-attachments/assets/ad9a754a-dd40-4351-afec-53482720e37e)
+
+
+
+
 ## Features to Implement
 1. Home Page
 - Hero section with introduction
